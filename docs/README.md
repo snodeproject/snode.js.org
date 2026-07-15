@@ -2,4 +2,4 @@
 
 Per favore scegli una lingua.
 
-- [Italiano](it/)
+- [Italiano](it/01/)
