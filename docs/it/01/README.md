@@ -10,17 +10,6 @@
   </ul>
 </details>
 
-<details>
-  <summary>TOC</summary>
-
-  <ul>
-    <li> <a href="#usare-snode">Usare Snode</a>
-    <ul>
-      <li><a href="../01/">0.1.x</a></li>
-    </ul>
-  </ul>
-</details>
-
 ---
 
 ## Usare Snode
